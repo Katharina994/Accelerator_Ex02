@@ -1,0 +1,8 @@
+Z=input("Enter Proton Number")
+Z=int(Z)
+
+A=input("Enter Mass Number")
+A=int(A)
+
+N=A-Z
+print(N)
